@@ -22,5 +22,10 @@
   "dependencies": {
     "angular": "~1.2.16",
     "angular-google-maps": "~1.0.18"
+  },
+  "overrides": {
+    "underscore": {
+      "main": "underscore.js"
+    }
   }
 }
